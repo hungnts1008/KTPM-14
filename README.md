@@ -11,6 +11,7 @@ Một ứng dụng cờ tướng chơi online 2 người sử dụng Python, Pyg
 - [Cài đặt](#cài-đặt)
 - [Cách chơi](#cách-chơi)
 - [Cấu trúc dự án](#cấu-trúc-dự-án)
+- [Câu hỏi thường gặp](#câu-hỏi-thường-gặp)
 - [Đóng góp](#đóng-góp)
 - [Giấy phép](#giấy-phép)
 
@@ -81,4 +82,31 @@ chinese-chess-online/
 ├── requirements.txt
 └── README.md
 ```
+## ❓ Câu hỏi thường gặp
 
+**1. Làm sao để kết nối hai máy tính chơi với nhau?**  
+Bạn cần đảm bảo cả hai máy cùng kết nối vào cùng một mạng LAN hoặc biết địa chỉ IP của máy chủ. Máy khách nhập IP của máy chủ khi chạy `client.py`.
+
+**2. Tôi gặp lỗi khi chạy Pygame hoặc WebSocket, phải làm sao?**  
+Hãy kiểm tra lại phiên bản Python, cài đặt đúng các thư viện trong `requirements.txt` và đảm bảo firewall không chặn cổng WebSocket.
+
+**3. Có thể chơi trên nhiều hệ điều hành không?**  
+Có, dự án hỗ trợ Windows, macOS và Linux miễn là cài đặt được Python và các thư viện cần thiết.
+
+---
+## 🤝 Đóng góp
+
+Chào mừng mọi đóng góp từ cộng đồng!
+
+- Fork repository và tạo branch mới cho tính năng hoặc sửa lỗi.
+- Gửi pull request kèm mô tả chi tiết thay đổi.
+- Vui lòng tuân thủ phong cách code và quy tắc đặt tên của dự án.
+- Nếu có ý tưởng hoặc phát hiện lỗi, hãy tạo issue để mọi người cùng thảo luận.
+
+---
+
+## 📜 Giấy phép
+
+Dự án được phát hành theo giấy phép MIT. Bạn có thể tự do sử dụng, chỉnh sửa và phân phối lại mã nguồn với điều kiện giữ nguyên thông tin bản quyền ban đầu.
+
+##
