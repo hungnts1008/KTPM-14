@@ -35,3 +35,8 @@ class EasyBot:
         piece, move = random.choice(moves)
         self.game.move_piece(piece, move)
         return True
+
+# Ví dụ sử dụng trong chế độ người vs máy:
+# Trong vòng lặp game, sau khi người chơi đi xong:
+# if game.turn == bot.color:
+#     bot.make_move()
