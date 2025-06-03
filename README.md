@@ -7,6 +7,7 @@ Một ứng dụng cờ tướng chơi online 2 người sử dụng Python, Pyg
 ## 📦 Mục lục
 
 - [Giới thiệu](#giới-thiệu)
+- [Giới thiệu thành viên](#giới-thiệu-thành-viên)
 - [Tính năng](#tính-năng)
 - [Cài đặt](#cài-đặt)
 - [Cách chơi](#cách-chơi)
@@ -15,11 +16,21 @@ Một ứng dụng cờ tướng chơi online 2 người sử dụng Python, Pyg
 - [Đóng góp](#đóng-góp)
 - [Giấy phép](#giấy-phép)
 
+
 ---
 
 ## 🚀 Giới thiệu
 
 Dự án giúp bạn chơi cờ tướng với bạn bè qua mạng LAN hoặc internet bằng WebSocket. Giao diện sử dụng Pygame đơn giản và trực quan, xử lý thời gian thực.
+
+---
+
+## 🚀 Giới thiệu thành viên
+
+Dự án được thực hiện bởi các thành viên:
+- Phạm Đức Hưng (Mã sinh viên: 22010479)
+- Phạm Hoài Nam (Mã sinh viên: 22010183)
+- Trần Thái Hưng (Mã sinh viên: 23010693)
 
 ---
 
