@@ -25,7 +25,7 @@ Dự án giúp bạn chơi cờ tướng với bạn bè qua mạng LAN hoặc i
 
 ---
 
-## 🚀 Giới thiệu thành viên
+## 🧑‍💻 Giới thiệu thành viên
 
 Dự án được thực hiện bởi các thành viên:
 - Phạm Đức Hưng (Mã sinh viên: 22010479)
