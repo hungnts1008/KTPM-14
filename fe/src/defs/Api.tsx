@@ -1,0 +1,6 @@
+export const API_LOGIN = "/auth/login"
+export const API_CREATE_ROOM = "/rooms/create_room"
+export const API_JOIN_ROOM = "/rooms/join_room"
+export const API_GET_BOARD = "/games/get_board"
+export const API_GET_MOVE = "/games/get_move"
+export const API_MOVE = "/games/move"

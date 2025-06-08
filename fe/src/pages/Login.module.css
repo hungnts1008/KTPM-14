@@ -1,0 +1,51 @@
+.formSection {
+    flex: 1;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #f9f9f9;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
+
+.formRow {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: black;
+}
+
+.formRow label {
+    width: 100px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.formRow input {
+    flex: 1;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background: white;
+    color: black;
+}
+
+.submitBtn {
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.errorMsg {
+    color: red;
+}
